@@ -9,4 +9,5 @@ The visualization on the dashboard analyzes the impact of different factors on c
 For instance, the visualization may reveal that customers with month-to-month contracts are more likely to churn compared to those with long-term contracts. It may also indicate that customers who pay through electronic checks have a higher churn rate. Additionally, the dashboard may show that senior citizens are more likely to churn compared to younger customers. Furthermore, the impact of tenure on churn can be analyzed, indicating whether customers who have been with the company for a shorter or longer duration are more prone to churn.
 
 By presenting these findings in an intuitive and visually appealing manner, the Churned Customers Dashboard enables the mobile company to make data-driven decisions. The insights gained from the dashboard can be used to develop targeted retention strategies, improve customer satisfaction, and ultimately reduce churn.
+
 ![image](https://github.com/DiyaMalhotra/Churn_Dashboard/assets/90766447/ce86a417-c550-4173-a2fb-3d5d69d3ce24)
